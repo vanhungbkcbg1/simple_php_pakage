@@ -1,0 +1,10 @@
+{
+    "name": "test/php",
+    "description": "simple package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Simple\\": "src/"
+        }
+    }
+}
