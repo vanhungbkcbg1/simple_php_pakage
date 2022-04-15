@@ -1,6 +1,7 @@
 {
     "name": "hungnv/simple_php",
     "description": "simple package",
+    "license": "MIT",
     "type": "library",
     "autoload": {
         "psr-4": {
