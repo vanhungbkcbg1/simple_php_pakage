@@ -1,5 +1,5 @@
 {
-    "name": "test/php",
+    "name": "hungnv/simple_php",
     "description": "simple package",
     "type": "library",
     "autoload": {
