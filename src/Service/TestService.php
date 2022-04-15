@@ -4,6 +4,6 @@ namespace Simple\Service;
 class TestService
 {
     function test(){
-        var_dump(__FILE__);
+        var_dump("test");
     }
 }
